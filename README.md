@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @niteshRdangal
-- 👀 I’m interested in anything associate with coding and problem solving
-- 🌱 I’m currently learning about AI specially CNN
-- 💞️ I’m looking to collaborate on ML, AI, DS, Web and android dev.
 - 📫 How to reach me niteshrd1@gmail.com
 
 <!---
