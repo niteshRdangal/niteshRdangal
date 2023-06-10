@@ -1,9 +1,9 @@
-[![MasterHead](https://www.himalayanholidaysnepal.com/uploads/resized/slider_2017-05-15%2005:33:19_Trekking%20Banner.jpg)](https://www.linkedin.com/in/niteshrajdangal/)
+[![MasterHead](https://www.himalayanholidaysnepal.com/uploads/resized/slider_2017-05-15%2005:33:19_Trekking%20Banner.jpg)](https://www.linkedin.com/in/niteshrajdangal/){:target="_blank"}
 
 
 
 <h1 align="center">Hi 👋, I'm Nitesh Raj Dangal</h1>
-<h3 align="center">(r)evolutionary | Passionate Developer | Innovator | Solving roblems with Code | Life-long Learner</h3>
+<h3 align="center">(r)evolutionary | Passionate Developer | Innovator | Solving problems with Code | Life-long Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 - 🔭 I’m currently working on **two projects as a fullstack dev with Lucid Tech and another contract job with an automobile company based in Europe.**
