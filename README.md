@@ -1,6 +1,4 @@
-[![MasterHead](https://www.himalayanholidaysnepal.com/uploads/resized/slider_2017-05-15%2005:33:19_Trekking%20Banner.jpg)](https://www.linkedin.com/in/niteshrajdangal/){:target="_blank"}
-
-
+[![MasterHead](https://www.himalayanholidaysnepal.com/uploads/resized/slider_2017-05-15%2005:33:19_Trekking%20Banner.jpg)](https://www.linkedin.com/in/niteshrajdangal/)
 
 <h1 align="center">Hi 👋, I'm Nitesh Raj Dangal</h1>
 <h3 align="center">(r)evolutionary | Passionate Developer | Innovator | Solving problems with Code | Life-long Learner</h3>
